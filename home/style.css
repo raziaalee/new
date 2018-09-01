@@ -1,0 +1,52 @@
+.card-deck{
+	height: 400px;
+	width:300px;
+	display: inline-flex;
+	margin-top: 20px;
+	margin-left: 35px;
+	margin-bottom: 30px;
+	font-family: 'Roboto';
+
+}
+.class{
+	align-items: center;
+}
+
+.btn btn-info{
+	left: 10px;
+}
+
+
+
+ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	background-color: black;
+}
+li{
+	float: left;
+}
+a{
+	font-family: 'Roboto';
+	color: white;
+}
+li{
+	display: block;
+	text-align: center;
+	padding: 30px;
+	text-decoration: none;
+	font-family: 'Roboto';
+	color: white;
+}
+
+}
+
+}
+li:hover{
+	font-family: 'Roboto';
+	color: white;
+	background-color: rgb( 233, 50, 20);
+	cursor: pointer;
+}
